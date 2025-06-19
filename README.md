@@ -5,9 +5,9 @@ Este é um aplicativo feito com Streamlit para análise e geração de jogos da 
 ## Funcionalidades
 - Análise de frequência dos números
 - Gráficos interativos
-- Filtros avançados (pares, soma, repetidos, fixos, excluir)
-- Exportação de jogos (TXT, XLSX, PDF)
-- Conferência automática com resultado do último concurso
+- Filtros básicos
+- Exportação futura
+- Conferência automática planejada
 
 ## Como rodar localmente
 ```bash
